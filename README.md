@@ -1,27 +1,42 @@
 # DESIGN-AND-SIMULATION-OF-TEMPERATURE-SENSOR-CIRCUIT
 # AIM
-![WhatsApp Image 2025-11-21 at 21 10 53_57b77cb7](https://github.com/user-attachments/assets/fb5b0120-7834-4c4c-b345-80252ceb6130)
+
+<img width="1280" height="421" alt="image" src="https://github.com/user-attachments/assets/e2cf68e6-0d06-4103-bf55-e96a7097c3e8" />
 
 # COMPONENT REQUIRED
-![WhatsApp Image 2025-11-21 at 21 11 22_1619e915](https://github.com/user-attachments/assets/7a79c273-1234-483e-ba97-e55a82c9d555)
+
+<img width="1280" height="653" alt="image" src="https://github.com/user-attachments/assets/73e51411-e20e-4082-b080-f4074ae9fed8" />
+
 # SOFTWARE REQUIRED 
-![WhatsApp Image 2025-11-21 at 21 11 45_487591c6](https://github.com/user-attachments/assets/584d023b-dab9-49c4-91e4-fb309f16756d)
+
+<img width="1280" height="283" alt="image" src="https://github.com/user-attachments/assets/3804efc3-6cc4-4ce3-bbbe-c0f8d8bd0551" />
+
 
 # THEORY
 
-![WhatsApp Image 2025-11-21 at 21 12 06_4921e7a2](https://github.com/user-attachments/assets/4d30a941-7bee-4e01-b0db-dc0930ae3829)
+<img width="1254" height="398" alt="image" src="https://github.com/user-attachments/assets/86fb424c-1216-4f78-b01b-a339abaa6cda" />
+
+<img width="1280" height="623" alt="image" src="https://github.com/user-attachments/assets/1c30ba59-a8e9-4a3d-b01e-7db9eb663ed9" />
+
 
 # PROCEDURE 
 
-![WhatsApp Image 2025-11-21 at 21 12 15_6d56f87c](https://github.com/user-attachments/assets/cd4600c6-8d7d-40ad-975e-cb652f825493)
+<img width="1080" height="1105" alt="image" src="https://github.com/user-attachments/assets/bea92c0f-d3f0-4dd2-9496-1418a075514e" />
+
+<img width="1280" height="685" alt="image" src="https://github.com/user-attachments/assets/413e1c0a-be2c-4afc-9937-f0c359be619b" />
+
+
 
 # CIRCUIT DIAGRAM
 
-![WhatsApp Image 2025-11-21 at 21 13 08_639ebcf6](https://github.com/user-attachments/assets/b76b059d-dcba-4a03-acae-002ac239ec23)
+<img width="1080" height="897" alt="image" src="https://github.com/user-attachments/assets/69850429-6b10-43e6-8011-778a558f735c" />
+
 
 
 # RESULT
-![WhatsApp Image 2025-11-21 at 21 13 09_ae881650](https://github.com/user-attachments/assets/c6eca472-401f-4d11-91f7-21cda731318d)
+
+<img width="1280" height="548" alt="image" src="https://github.com/user-attachments/assets/8b9ae5d0-b160-4698-826b-1b44ed1f1176" />
+
 
 
 
